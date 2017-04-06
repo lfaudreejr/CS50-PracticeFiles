@@ -1,2 +1,2 @@
 # CS50-PracticeFiles
-Practice Files from CS50 Study
+My completed practice programs from the Practice Study of CS50 Study
